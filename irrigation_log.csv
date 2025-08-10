@@ -1,0 +1,4 @@
+Timestamp,Zone,Hydration Score,Humidity,Pressure,Watering Time,Emergency
+2025-08-05 12:20:46,1,0.0,43,0.51,20,None
+2025-08-05 12:20:46,2,0.0,47,0.31,20,None
+2025-08-05 12:20:46,3,0.0,62,0.51,20,None
